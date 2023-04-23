@@ -1,0 +1,10 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  example1.cpp
+D:\DHMT_THUY\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(129,58): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+D:\DHMT_THUY\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(136,65): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+D:\DHMT_THUY\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(139,63): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+D:\DHMT_THUY\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(142,65): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+D:\DHMT_THUY\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(145,63): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+D:\DHMT_THUY\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(152,39): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+D:\DHMT_THUY\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(166,39): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+  GLSLExperiment.vcxproj -> D:\DHMT_THUY\BaiTHso3_2_project_Cube\Debug\GLSLExperiment.exe
